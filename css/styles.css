@@ -114,6 +114,9 @@ line-height: 2;
   color: #eaf6f6;
 }
 
+.profile {
+  padding-top: 80px;
+}
 
 .hello-p {
   width: 30%;
@@ -121,11 +124,6 @@ line-height: 2;
 
 }
 
-.johan-img {
-  margin-top: 100px;
-  margin-bottom: 70px;
-  width: 15%;
-}
 
 .middle-container {}
 
@@ -135,9 +133,9 @@ line-height: 2;
   padding: 20px 0; /*TandB LandR*/
 }
 
-.pro {
+/*.pro {
   text-decoration: underline;
-}
+}*/
 .top-container {
   background-color: #E4F6F6;
   position: relative;
