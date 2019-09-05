@@ -118,14 +118,18 @@ line-height: 2;
   padding-top: 80px;
 }
 
+#aboutMe {
+  background-color: 'red';
+}
 .hello-p {
-  width: 30%;
+  width: 50%;
   margin: auto;
 
 }
 
 
-.middle-container {}
+
+
 
 .name-surname {
   color: #EAF6F6;
